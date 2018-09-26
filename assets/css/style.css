@@ -278,6 +278,11 @@ footer {
     .navbutton1 {
         margin-right: 45px;
     }
+
+    .Top {
+        width: 990px;
+        padding-left: 10px;
+    }
     
     .Main-Content1 {
         width: 640px;
@@ -316,6 +321,11 @@ footer {
 
     .Main-Content1 {
         width: 660px;
+    }
+
+    .Top {
+        width: 790px;
+        padding-left: 10px;
     }
 
     footer {
