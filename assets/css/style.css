@@ -290,6 +290,24 @@ footer {
         margin: -70px 320px 50px 50px
     }
 
+    .Main-Content2 {
+        width: 640px;
+        height: 700px;
+        margin: -70px 320px 50px 50px
+    }
+
+    .Main-Content3 {
+        width: 640px;
+        height: 900px;
+        margin: -70px 320px 50px 50px
+    }
+
+    .picbox {
+        width: 216px;
+        height: 160px;
+        margin-right: 30px;
+    }
+
     .Header2 {
         width: 560px;
     }
@@ -307,6 +325,19 @@ footer {
         width: 560px;
     }
 
+    .input {
+        width: 540px;
+    }
+
+    .block {
+        width: 540px;
+    }
+
+    #block2 {
+        min-width: 555px;
+        max-width: 555px;
+    }
+
     footer {
         width: 990px;
     }
@@ -320,6 +351,14 @@ footer {
     }
 
     .Main-Content1 {
+        width: 660px;
+    }
+
+    .Main-Content2 {
+        width: 660px;
+    }
+
+    .Main-Content3 {
         width: 660px;
     }
 
@@ -390,6 +429,16 @@ footer {
         height: 1150px;
     }
 
+    .Main-Content2 {
+        width: 610px;
+        height: 700px;
+    }
+
+    .Main-Content3 {
+        width: 610px;
+        height: 2400px;
+    }
+
     .Header2 {
         width: 510px;
         margin-left: 50px;
@@ -415,6 +464,36 @@ footer {
     #p3 {
         width: 510px;
         margin-left: 50px;
+    }
+
+    .input {
+        width: 510px;
+    }
+
+    .block {
+        width: 510px;
+    }
+
+    #block2 {
+        width: 510px;
+    }
+
+    .picbox {
+        width: 510px;
+        height: 375px;
+        margin-left: 50px;
+    }
+
+    .picwords {
+        width: 510px;
+        height: 80px;
+        font-size: 20px;
+        top: -140px;
+    }
+
+    img {
+        width: 510px;
+        height: 375px;
     }
 
     footer {
