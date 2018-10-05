@@ -1,0 +1,51 @@
+#body {
+    background-image: url("../images/space.jpg");
+}
+
+#Jumbo {
+    text-align: center;
+    color: #eeeeee;
+    height: 200px;
+    padding-top:40px;
+}
+
+#Main-Content {
+    text-align: center;
+    color: #eeeeee;
+}
+
+#h31 {
+    font-family: 'Orbitron', sans-serif;
+}
+#h32 {
+    font-family: 'Orbitron', sans-serif;
+}
+#h33 {
+    font-family: 'Orbitron', sans-serif;
+}
+#h34 {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.WordBlock {
+    width:40px;
+    height:40px;
+    margin: 10px;
+    border-bottom:2px solid #eeeeee;
+    float: left;
+}
+
+#play {
+    height: 40px;
+    margin: 50px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#subtitle {
+    font-family: 'Orbitron', sans-serif;
+}
+
+img {
+    width: 320px;
+    height: 320px;
+}
