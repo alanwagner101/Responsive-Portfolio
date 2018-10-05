@@ -13,6 +13,10 @@ body {
     height: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
 .Main-Header {
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
